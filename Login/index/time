@@ -1,0 +1,3 @@
+<?php
+	echo "Time is " .date("h:i:s");
+?>
